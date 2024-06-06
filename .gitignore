@@ -1,1 +1,7 @@
-/node_modules
+# Ignore Angular cache directory
+.angular/cache/
+
+# Other typical ignores for Angular projects
+node_modules/
+dist/
+tmp/
